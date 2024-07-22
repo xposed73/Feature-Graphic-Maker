@@ -21,3 +21,8 @@ pip install colorthief
 pip install ttkthemes
 pip install pyinstaller
 ```
+
+Generate .exe Executable file
+```shell
+pyinstaller --onefile app.py
+```
